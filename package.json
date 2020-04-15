@@ -25,7 +25,13 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "10.x"
+    "node": "12.16.1",
+      "npm":"6.13.4"
   },
+      "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/aqueous-peak-29896.git"
+  }
+   
 
 }
